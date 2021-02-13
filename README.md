@@ -14,6 +14,3 @@ Training MLP.
 I have used R2 and RMSE performence metric for model evaluation.
 
 Eventually I have used MLP with logistic regression to predict the test set provided by the company.
-
-
-
